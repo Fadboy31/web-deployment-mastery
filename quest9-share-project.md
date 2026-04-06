@@ -36,3 +36,23 @@ Workflow is consistent across GitHub Pages, Netlify, and Vercel
 Commit history is clean and descriptive
 
 You are now deploying like a professional developer.
+
+## 🌐 Live Project URLs
+
+- GitHub Pages: https://fadboy31.github.io/TaskFlow/
+- Netlify: https://taskflow-31.netlify.app/
+- Vercel: https://task-flow-jet.vercel.app/
+
+## 🗣 Feedback Collected
+
+- Mobile layout spacing optimized
+- Button colors adjusted for clarity
+- Page loads under 2 seconds
+- Overall user experience: Positive
+
+## 🔧 Planned Improvements
+
+- Add task categories and deadlines
+- Implement light/dark mode toggle
+- Enhance responsive design
+- Improve animations and visual hierarchy
